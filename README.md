@@ -45,7 +45,7 @@ Result: 30
 
 Enter your choice: 4
 
-Enter two integers: 10 0
+Enter two integers: 10  0
 
 Error: Cannot divide by zero!
 
