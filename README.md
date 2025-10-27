@@ -18,19 +18,14 @@ This is a simple **menu-driven calculator application** in Java.
 ---
 
 ## How to Run
-1. **Compile the code:**  
-   ```bash
-   javac CalculatorApp.java
-   ```  
-2. **Run the program:**  
-   ```bash
-   java CalculatorApp
-   ```
+1. Compile the code :javac CalculatorApp.java
+   
+2. Run the program: java CalculatorApp 
 
 ---
 
 ## Sample Interaction
-```
+
 ===== Calculator Application =====
 1. Add Numbers
 2. Subtract Numbers
@@ -44,18 +39,14 @@ Enter your choice: 1
 Enter sub-choice: 1
 Enter two integers: 10 20
 Result: 30
-```
 
-```
 ===== Calculator Application =====
 Enter your choice: 4
 Enter two integers: 10 0
 Error: Cannot divide by zero!
 Result: 0
-```
 
-```
 ===== Calculator Application =====
 Enter your choice: 5
 Thank you for using the calculator!
-```
+
